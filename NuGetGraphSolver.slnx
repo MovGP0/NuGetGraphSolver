@@ -1,0 +1,15 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+  </Configurations>
+  <Folder Name="/SolutionItems/">
+    <File Path=".gitignore" />
+    <File Path="Directory.Build.props" />
+    <File Path="LICENSE" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="NuGetGraphSolver.IntegrationTests\NuGetGraphSolver.IntegrationTests.csproj" Type="Classic C#" />
+  <Project Path="NuGetGraphSolver.Lib.UnitTests\NuGetGraphSolver.Lib.UnitTests.csproj" Type="Classic C#" />
+  <Project Path="NuGetGraphSolver.Lib\NuGetGraphSolver.Lib.csproj" Type="Classic C#" />
+  <Project Path="NuGetGraphSolver\NuGetGraphSolver.csproj" Type="Classic C#" />
+</Solution>

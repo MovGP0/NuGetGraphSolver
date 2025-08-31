@@ -1,0 +1,8 @@
+<Project>
+  <PropertyGroup>
+    <!-- Disable SourceLink / Git repository queries that currently fail due to unsupported git extension -->
+    <EnableSourceControlManagerQueries>false</EnableSourceControlManagerQueries>
+    <ContinuousIntegrationBuild>false</ContinuousIntegrationBuild>
+  </PropertyGroup>
+</Project>
+
